@@ -79,7 +79,7 @@
     <div class="contact">
       <p>Email: nithinr439340@gmail.com</p>
       <p>Phone: +91 8904590644</p>
-      <p>GitHub: <a href="https://github.com/nithin" target="_blank">github.com/nithin</a></p>
+      <p>GitHub: <a href="https://github.com/Nithinr1/Nithinr1 target="_blank">github.com/Nithinr1</a></p>
       <p>LinkedIn: <a href="https://linkedin.com/in/nithin" target="_blank">linkedin.com/in/nithin</a></p>
     </div>
   </section>
