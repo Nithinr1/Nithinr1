@@ -67,7 +67,7 @@
   <section id="resume">
   <h2>Resume</h2>
   <p>You can download or view my resume using the button below:</p>
-  <a href="C:\Users\JEEVITHA S L\Downloads\New folder" download target="_blank" style="
+  <a href="C:\Users\bhara\Downloads\My Resume (2).pdf" download target="_blank" style="
     display: inline-block;
     margin-top: 15px;
     padding: 12px 24px;
